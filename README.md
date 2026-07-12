@@ -10,7 +10,7 @@
 
 ## Note: Only HR HAS ACCESS TO CREATE THE EMPLOYEES PROFILE
 
-
+    
 ## Features
 - Add and edit Tasks assigned by manager
 - Employees can view and update the progress of the task assigned to them individually
